@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jacqline (@jacqlinegeng)
-- 👀 I’m interested in building in web3
+- 👀 I’m a developer advocate @thirdweb
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on web3 projects
 - 📫 You can reach me at jacqlinegeng@gmail.com
