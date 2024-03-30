@@ -5,7 +5,7 @@ My ethos:
 - fail fast, learn faster
 - don't compare; everyone was dealt a different set of cards, so focus on your own hand
 - optimize for the experience, not the outcome
-- keep a beginner's mindset and stay humble
+- maintain a beginner's mindset and stay humble
 - life is an adventure, and love is a conscious choice
 - be exotic, be iconic!
 
