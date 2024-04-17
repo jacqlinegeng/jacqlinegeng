@@ -1,7 +1,7 @@
 I build and explore everything about the human connection and human consciousness. 
 
 My ethos:
-- learn at a high velocity - speed and direction both matter;
+- learn at a high velocity; speed and direction both matter;
 - fail fast, learn faster;
 - don't compare; everyone was dealt a different set of cards, so focus on your own hand;
 - optimize for the experience, not the outcome;
